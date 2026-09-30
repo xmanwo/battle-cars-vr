@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1f31654ffd75c346ba17dacf3ecc051
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330811
+  packageName: MMA Arena
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Built-In/Materials/LongWall.mat
+  uploadId: 782886

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5505e1774421b94caf921babf8b4dca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330811
+  packageName: MMA Arena
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Built-In/Materials/Windows.mat
+  uploadId: 782886

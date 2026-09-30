@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c17eacb57b825b542aa28415cb32edcd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229620
+  packageName: Anime Stylized VFX URP
+  packageVersion: 1.1.2023.05
+  assetPath: Assets/Vefects/Anime VFX URP/Shared/Particles/VFX_Fireball_Firing.prefab
+  uploadId: 854256

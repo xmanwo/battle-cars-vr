@@ -1,0 +1,5 @@
+Double click on the Anime_Stylized_URP_2D_Shaders.unitypackage to extract the 2D version of the shaders.
+
+These 2D shaders are not exact to the tee, but they can be useful for some contexts.
+
+This pack wasn't designed with a pure 2D setting in mind.

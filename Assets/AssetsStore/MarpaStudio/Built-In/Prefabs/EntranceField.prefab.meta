@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75c5e35ffaac09d4f9390a0561c4259e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330811
+  packageName: MMA Arena
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Built-In/Prefabs/EntranceField.prefab
+  uploadId: 782886

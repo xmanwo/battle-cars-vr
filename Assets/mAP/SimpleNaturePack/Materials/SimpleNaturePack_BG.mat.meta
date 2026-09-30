@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: abf58c25bb3a03b47a7dabec3f9ab7a4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 162153
+  packageName: Low-Poly Simple Nature Pack
+  packageVersion: 1.24
+  assetPath: Assets/SimpleNaturePack/Materials/SimpleNaturePack_BG.mat
+  uploadId: 582302

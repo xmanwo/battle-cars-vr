@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/PlayGorund.unity
+    guid: ced0436b2b9a67a448938d269f71969a
+  - enabled: 0
+    path: Assets/Scenes/CarTest.unity
+    guid: 2b4657617a43bcc4394602beffcfbef1
+  - enabled: 1
+    path: Assets/Scenes/Arena.unity
+    guid: 985e29d99077cda4f8c4a60ef6f2d4cd
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 927b2a2b6bf5a4a43b76a1516089eae7, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 57ff497b48cb8bf4d988444c27201bcb, type: 2}
+  m_UseUCBPForAssetBundles: 0

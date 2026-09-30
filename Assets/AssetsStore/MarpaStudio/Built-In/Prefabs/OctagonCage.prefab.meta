@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9fe564e78a8ec1e4a915bd2c93cb9a3d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330811
+  packageName: MMA Arena
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Built-In/Prefabs/OctagonCage.prefab
+  uploadId: 782886

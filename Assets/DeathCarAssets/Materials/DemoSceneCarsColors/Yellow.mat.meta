@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc45f8a02642a1244b9a8e2178a913cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316714
+  packageName: Death Car Assets
+  packageVersion: 1.0
+  assetPath: Assets/DeathCarAssets/Materials/DemoSceneCarsColors/Yellow.mat
+  uploadId: 747601

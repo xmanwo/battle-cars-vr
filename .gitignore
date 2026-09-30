@@ -1,0 +1,50 @@
+# Unity-generated caches and local editor settings
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Build outputs: distribute the APK through GitHub Releases
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
+*.aab
+
+# IDE-generated files
+/.vs/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Asset installer/conversion archives, already accompanied by imported assets
+# Keep these archives locally in case a pipeline conversion is needed later.
+*.unitypackage
+*.unitypackage.meta
+
+# Unity recovery snapshots; retain them locally
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+
+# Local credentials and Android signing keys
+.env
+.env.*
+!.env.example
+*.keystore
+*.keystore.meta
+*.jks
+*.jks.meta
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini

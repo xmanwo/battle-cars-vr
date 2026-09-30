@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df4314d4813383345bebc7057a977d3a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330811
+  packageName: MMA Arena
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Built-In/Materials/SecondFloorCeiling.mat
+  uploadId: 782886

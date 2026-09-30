@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ddd62c7384867d34d84e0f6c6680b5b2
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229620
+  packageName: Anime Stylized VFX URP
+  packageVersion: 1.1.2023.05
+  assetPath: Assets/Vefects/Anime VFX URP/Shared/Shaders/SH_VFX_Bomb.shader
+  uploadId: 854256

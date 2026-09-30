@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: daca3c71f9d64ec48a6effd228bb371c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330811
+  packageName: MMA Arena
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Built-In/Prefabs/ScoreBoard.prefab
+  uploadId: 782886

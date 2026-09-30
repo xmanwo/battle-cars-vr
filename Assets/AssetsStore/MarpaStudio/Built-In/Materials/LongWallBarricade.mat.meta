@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47c2c1754fa6a8147922a119d3bb51c4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330811
+  packageName: MMA Arena
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Built-In/Materials/LongWallBarricade.mat
+  uploadId: 782886

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f633c50c12ebfb4d9b76d1ace117e79
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330811
+  packageName: MMA Arena
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Built-In/Materials/Ground.mat
+  uploadId: 782886

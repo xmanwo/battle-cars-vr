@@ -1,0 +1,286 @@
+; FBX 6.1.0 project file
+; ----------------------------------------------------
+
+FBXHeaderExtension:  {
+	FBXHeaderVersion: 1003
+	FBXVersion: 6100
+	CreationTimeStamp:  {
+		Version: 1000
+		Year: 2025
+		Month: 7
+		Day: 23
+		Hour: 21
+		Minute: 40
+		Second: 42
+		Millisecond: 528
+	}
+	Creator: "FBX SDK/FBX Plugins version 2020.3.5"
+}
+
+; Document Description
+;------------------------------------------------------------------
+
+Document:  {
+	Name: ""
+}
+
+; Document References
+;------------------------------------------------------------------
+
+References:  {
+}
+
+; Object definitions
+;------------------------------------------------------------------
+
+Definitions:  {
+	Version: 100
+	Count: 3
+	ObjectType: "Model" {
+		Count: 1
+	}
+	ObjectType: "SceneInfo" {
+		Count: 1
+	}
+	ObjectType: "GlobalSettings" {
+		Count: 1
+	}
+}
+
+; Object properties
+;------------------------------------------------------------------
+
+Objects:  {
+	Model: "Model::Object020", "Mesh" {
+		Version: 232
+		Properties60:  {
+			Property: "QuaternionInterpolate", "enum", "",0
+			Property: "RotationOffset", "Vector3D", "",0,0,0
+			Property: "RotationPivot", "Vector3D", "",0,0,0
+			Property: "ScalingOffset", "Vector3D", "",0,0,0
+			Property: "ScalingPivot", "Vector3D", "",0,0,0
+			Property: "TranslationActive", "bool", "",0
+			Property: "TranslationMin", "Vector3D", "",0,0,0
+			Property: "TranslationMax", "Vector3D", "",0,0,0
+			Property: "TranslationMinX", "bool", "",0
+			Property: "TranslationMinY", "bool", "",0
+			Property: "TranslationMinZ", "bool", "",0
+			Property: "TranslationMaxX", "bool", "",0
+			Property: "TranslationMaxY", "bool", "",0
+			Property: "TranslationMaxZ", "bool", "",0
+			Property: "RotationOrder", "enum", "",0
+			Property: "RotationSpaceForLimitOnly", "bool", "",0
+			Property: "RotationStiffnessX", "double", "",0
+			Property: "RotationStiffnessY", "double", "",0
+			Property: "RotationStiffnessZ", "double", "",0
+			Property: "AxisLen", "double", "",10
+			Property: "PreRotation", "Vector3D", "",-90,-0,0
+			Property: "PostRotation", "Vector3D", "",0,0,0
+			Property: "RotationActive", "bool", "",1
+			Property: "RotationMin", "Vector3D", "",0,0,0
+			Property: "RotationMax", "Vector3D", "",0,0,0
+			Property: "RotationMinX", "bool", "",0
+			Property: "RotationMinY", "bool", "",0
+			Property: "RotationMinZ", "bool", "",0
+			Property: "RotationMaxX", "bool", "",0
+			Property: "RotationMaxY", "bool", "",0
+			Property: "RotationMaxZ", "bool", "",0
+			Property: "InheritType", "enum", "",1
+			Property: "ScalingActive", "bool", "",0
+			Property: "ScalingMin", "Vector3D", "",0,0,0
+			Property: "ScalingMax", "Vector3D", "",0,0,0
+			Property: "ScalingMinX", "bool", "",0
+			Property: "ScalingMinY", "bool", "",0
+			Property: "ScalingMinZ", "bool", "",0
+			Property: "ScalingMaxX", "bool", "",0
+			Property: "ScalingMaxY", "bool", "",0
+			Property: "ScalingMaxZ", "bool", "",0
+			Property: "GeometricTranslation", "Vector3D", "",-1953.49597167969,162.5048828125,1287.65637207031
+			Property: "GeometricRotation", "Vector3D", "",-90,65.0000152587891,0
+			Property: "GeometricScaling", "Vector3D", "",1,1,1
+			Property: "MinDampRangeX", "double", "",0
+			Property: "MinDampRangeY", "double", "",0
+			Property: "MinDampRangeZ", "double", "",0
+			Property: "MaxDampRangeX", "double", "",0
+			Property: "MaxDampRangeY", "double", "",0
+			Property: "MaxDampRangeZ", "double", "",0
+			Property: "MinDampStrengthX", "double", "",0
+			Property: "MinDampStrengthY", "double", "",0
+			Property: "MinDampStrengthZ", "double", "",0
+			Property: "MaxDampStrengthX", "double", "",0
+			Property: "MaxDampStrengthY", "double", "",0
+			Property: "MaxDampStrengthZ", "double", "",0
+			Property: "PreferedAngleX", "double", "",0
+			Property: "PreferedAngleY", "double", "",0
+			Property: "PreferedAngleZ", "double", "",0
+			Property: "LookAtProperty", "object", ""
+			Property: "UpVectorProperty", "object", ""
+			Property: "Show", "bool", "",1
+			Property: "NegativePercentShapeSupport", "bool", "",1
+			Property: "DefaultAttributeIndex", "int", "",0
+			Property: "Freeze", "bool", "",0
+			Property: "LODBox", "bool", "",0
+			Property: "Lcl Translation", "Lcl Translation", "A",0,0,0
+			Property: "Lcl Rotation", "Lcl Rotation", "A",90.0000025044781,-0,0
+			Property: "Lcl Scaling", "Lcl Scaling", "A",1,1,1
+			Property: "Visibility", "Visibility", "A",1
+			Property: "MaxHandle", "int", "UH",303
+			Property: "Color", "ColorRGB", "N",0.337254901960784,0.337254901960784,0.337254901960784
+			Property: "BBoxMin", "Vector3D", "N",0,0,0
+			Property: "BBoxMax", "Vector3D", "N",0,0,0
+			Property: "Primary Visibility", "bool", "N",1
+			Property: "Casts Shadows", "bool", "N",1
+			Property: "Receive Shadows", "bool", "N",1
+		}
+		MultiLayer: 0
+		MultiTake: 0
+		Shading: T
+		Culling: "CullingOff"
+		Vertices: 1862.2578125,-1045.02062988281,-305.126892089844,1862.2587890625,-1045.02014160156,-97.935302734375,1900.30908203125
+        ,-1126.62048339844,-97.935302734375,1900.30859375,-1126.62060546875,-305.126892089844,1993.529296875,-1326.53259277344
+        ,-305.126892089844,1993.52978515625,-1326.53234863281,-97.935302734375,2031.306640625,-1407.54345703125,-97.935302734375
+        ,2031.3056640625,-1407.54357910156,-305.126892089844,1862.2587890625,-1045.02014160156,-19.8829345703125,1900.30908203125
+        ,-1126.62048339844,-19.8829345703125,1993.52978515625,-1326.53234863281,-19.8829345703125,2031.306640625,-1407.54345703125
+        ,-19.8829345703125,2122.93408203125,-1266.19006347656,-305.126892089844,2122.9345703125,-1266.18994140625,-97.9353332519531
+        ,2029.7138671875,-1066.27807617188,-97.935302734375,2029.71337890625,-1066.27819824219,-305.126892089844
+		PolygonVertexIndex: 3,2,1,-1,7,6,5,-5,9,8,1,-3,11,10,5,-7,10,9,2,-6,4,5,13,-13,5,2,14,-14,3,15,14,-3
+		Edges: 0,1,2,3,4,5,6,7,8,9,11,12,13,15,16,18,21,22,23,25,26,28,29
+		GeometryVersion: 124
+		LayerElementNormal: 0 {
+			Version: 101
+			Name: ""
+			MappingInformationType: "ByPolygonVertex"
+			ReferenceInformationType: "Direct"
+			Normals: -0.906308829784393,-0.422616124153137,3.82642701879377e-06,-0.906308829784393,-0.42261615395546,1.27547548345319e-06
+             ,-0.906309545040131,-0.422614574432373,1.91321328202321e-06,-0.906308770179749,-0.42261603474617,3.82642656404641e-06
+             ,-0.906305491924286,-0.422623187303543,3.57905264536384e-06,-0.906305015087128,-0.422624200582504,1.78952552687406e-06
+             ,-0.90630578994751,-0.422622561454773,1.193017510559e-06,-0.906305491924286,-0.422623217105865,3.57905287273752e-06
+             ,-0.906308770179749,-0.42261615395546,0,-0.906310200691223,-0.422612994909286,0,-0.906309545040131,-0.422614574432373
+             ,1.91321328202321e-06,-0.906308829784393,-0.42261615395546,1.27547548345319e-06,-0.906304538249969,-0.42262527346611
+             ,0,-0.906305909156799,-0.422622263431549,0,-0.90630578994751,-0.422622561454773,1.193017510559e-06,-0.906305015087128
+             ,-0.422624200582504,1.78952552687406e-06,-0.906305909156799,-0.422622263431549,0,-0.906308770179749,-0.42261615395546
+             ,0,-0.906308829784393,-0.42261615395546,1.27547548345319e-06,-0.90630578994751,-0.422622561454773,1.193017510559e-06
+             ,-0.422618448734283,0.906307697296143,1.93937239600928e-07,-0.422618448734283,0.906307697296143,1.93937253811782e-07
+             ,-0.422618448734283,0.906307756900787,1.93937253811782e-07,-0.422618448734283,0.906307697296143,1.93937253811782e-07
+             ,-1.26089901186788e-07,1.75307288685644e-08,-1,-1.26089901186788e-07,1.75307288685644e-08,-1,-1.26089901186788e-07
+             ,1.75307288685644e-08,-1,-1.26089901186788e-07,1.75307288685644e-08,-1,0.422618091106415,-0.906307935714722,-4.62148335600432e-07
+             ,0.422618091106415,-0.906307935714722,-4.62148364022141e-07,0.422618091106415,-0.906307935714722,-4.62148335600432e-07
+             ,0.422618091106415,-0.906307935714722,-4.62148364022141e-07
+		}
+		LayerElementUV: 0 {
+			Version: 101
+			Name: "UVChannel_1"
+			MappingInformationType: "ByPolygonVertex"
+			ReferenceInformationType: "IndexToDirect"
+			UV: 0.000682810670696199,0.522163867950439,0.384315013885498,0.523218095302582,0.383632272481918,0.771546602249146
+             ,0,0.770492315292358,0.14907631278038,0,0.149076089262962,0.378519326448441,0,0.378519326448441,8.88634815510159e-07
+             ,0,0.662295818328857,0,0.662295579910278,0.378519326448441,0.514295995235443,0.378519326448441,0.514296472072601
+             ,0,0.149076089262962,0.521113574504852,0,0.521113574504852,0.662295579910278,0.521113574504852,0.514295995235443
+             ,0.521113574504852,0.764162063598633,0.762538731098175,0.38566380739212,0.758560955524445,0.3881476521492,0.522163808345795
+             ,0.766645908355713,0.52614164352417,0.771362841129303,0.763588964939117,0.771362841129303,0.999999046325684,0.392843723297119
+             ,1,0.392843723297119,0.763589799404144
+			UVIndex: 4,5,6,7,8,9,10,11,12,13,6,5,14,15,10,9,15,12,5,10,16,17,18,19,0,1,2,3,20,21,22,23
+		}
+		Layer: 0 {
+			Version: 100
+			LayerElement:  {
+				Type: "LayerElementNormal"
+				TypedIndex: 0
+			}
+			LayerElement:  {
+				Type: "LayerElementUV"
+				TypedIndex: 0
+			}
+		}
+		NodeAttributeName: "Geometry::Object020_ncl1_1"
+	}
+	SceneInfo: "SceneInfo::GlobalInfo", "UserData" {
+		Type: "UserData"
+		Version: 100
+		MetaData:  {
+			Version: 100
+			Title: ""
+			Subject: ""
+			Author: ""
+			Keywords: ""
+			Revision: ""
+			Comment: ""
+		}
+		Properties60:  {
+			Property: "DocumentUrl", "KString", "", "C:\Users\mario\Desktop\Arena\Mesh\EntranceField.fbx"
+			Property: "SrcDocumentUrl", "KString", "", "C:\Users\mario\Desktop\Arena\Mesh\EntranceField.fbx"
+			Property: "Original", "Compound", ""
+			Property: "Original|ApplicationVendor", "KString", "", "Autodesk"
+			Property: "Original|ApplicationName", "KString", "", "3ds Max"
+			Property: "Original|ApplicationVersion", "KString", "", "2025"
+			Property: "Original|DateTime_GMT", "DateTime", "", "23/07/2025 19:40:42.527"
+			Property: "Original|FileName", "KString", "", "C:\Users\mario\Desktop\Arena\Mesh\EntranceField.fbx"
+			Property: "LastSaved", "Compound", ""
+			Property: "LastSaved|ApplicationVendor", "KString", "", "Autodesk"
+			Property: "LastSaved|ApplicationName", "KString", "", "3ds Max"
+			Property: "LastSaved|ApplicationVersion", "KString", "", "2025"
+			Property: "LastSaved|DateTime_GMT", "DateTime", "", "23/07/2025 19:40:42.527"
+			Property: "Original|ApplicationActiveProject", "KString", "", "C:\Users\mario\OneDrive\Documents\3ds Max 2025"
+			Property: "Original|ApplicationNativeFile", "KString", "", "C:\Users\mario\Desktop\NBAFIELD3.max"
+		}
+	}
+	GlobalSettings:  {
+		Version: 1000
+		Properties60:  {
+			Property: "UpAxis", "int", "",1
+			Property: "UpAxisSign", "int", "",1
+			Property: "FrontAxis", "int", "",2
+			Property: "FrontAxisSign", "int", "",1
+			Property: "CoordAxis", "int", "",0
+			Property: "CoordAxisSign", "int", "",1
+			Property: "OriginalUpAxis", "int", "",2
+			Property: "OriginalUpAxisSign", "int", "",1
+			Property: "UnitScaleFactor", "double", "",1
+			Property: "OriginalUnitScaleFactor", "double", "",1
+			Property: "AmbientColor", "ColorRGB", "",0,0,0
+			Property: "DefaultCamera", "KString", "", "Producer Perspective"
+			Property: "TimeMode", "enum", "",6
+			Property: "TimeProtocol", "enum", "",2
+			Property: "SnapOnFrameMode", "enum", "",0
+			Property: "TimeSpanStart", "KTime", "",0
+			Property: "TimeSpanStop", "KTime", "",153953860000
+			Property: "CustomFrameRate", "double", "",-1
+		}
+	}
+}
+
+; Object connections
+;------------------------------------------------------------------
+
+Connections:  {
+	Connect: "OO", "Model::Object020", "Model::Scene"
+}
+;Version 5 settings
+;------------------------------------------------------------------
+
+Version5:  {
+	AmbientRenderSettings:  {
+		Version: 101
+		AmbientLightColor: 0,0,0,1
+	}
+	FogOptions:  {
+		FlogEnable: 0
+		FogMode: 0
+		FogDensity: 0.002
+		FogStart: 0.3
+		FogEnd: 1000
+		FogColor: 1,1,1,1
+	}
+	Settings:  {
+		FrameRate: "30"
+		TimeFormat: 1
+		SnapOnFrames: 0
+		ReferenceTimeIndex: -1
+		TimeLineStartTime: 0
+		TimeLineStopTime: 470400000
+	}
+	RendererSetting:  {
+		DefaultCamera: "Producer Perspective"
+		DefaultViewingMode: 0
+	}
+}

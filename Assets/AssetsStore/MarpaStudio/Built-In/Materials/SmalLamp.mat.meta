@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1acb555d314e1f74c90491cf7c6f0cbe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330811
+  packageName: MMA Arena
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Built-In/Materials/SmalLamp.mat
+  uploadId: 782886

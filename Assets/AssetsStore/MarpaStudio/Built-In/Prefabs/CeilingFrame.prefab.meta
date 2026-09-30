@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa060cef5fca95441a82fd8c65a29ac3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330811
+  packageName: MMA Arena
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Built-In/Prefabs/CeilingFrame.prefab
+  uploadId: 782886

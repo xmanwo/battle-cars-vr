@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba811f0b1e994e7419a11f2c631be0c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229620
+  packageName: Anime Stylized VFX URP
+  packageVersion: 1.1.2023.05
+  assetPath: Assets/Vefects/Anime VFX URP/Shared/Particles/VFX_Fireball_Impact.prefab
+  uploadId: 854256

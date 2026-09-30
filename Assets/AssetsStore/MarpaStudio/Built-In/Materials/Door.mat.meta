@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 895a2b78707ccc14093fc7f991c34ac3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330811
+  packageName: MMA Arena
+  packageVersion: 1.0
+  assetPath: Assets/MarpaStudio/Built-In/Materials/Door.mat
+  uploadId: 782886
